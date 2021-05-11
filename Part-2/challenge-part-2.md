@@ -1,6 +1,6 @@
 ## Javascript Fundementals Challenge One (Part One)💪🏾
 
-Let's go back to Mohamed and Ald comparing their BMIs! This time, let's use objects to implement the calculations!
+Let's go back to Mohamed and Ali comparing their BMIs! This time, let's use objects to implement the calculations!
 
 > **Remeber:**
 > BMI = mass / height ** 2 
