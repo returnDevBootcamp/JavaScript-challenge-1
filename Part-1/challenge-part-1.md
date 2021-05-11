@@ -7,7 +7,7 @@ Mohamed and Ali are tying to compare their BMI (Body Mass Index), which is calcu
 ##### Your Task 😃:
 1. Store Mohamed and Ali mass and heigh in variables
 2. calculate both their BMIs using the formula
-3. create a Boolean varaible `MohamedHigherBMI` containing information whether Mark has a higher BMI than Ali
+3. create a Boolean varaible `MohamedHigherBMI` containing information whether Mohamed has a higher BMI than Ali
 
 Good Luck 😀
 ###### Test data
